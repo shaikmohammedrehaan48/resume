@@ -1,0 +1,26 @@
+body{
+    background-color: #eac6c6;
+    color: #9b4040;
+    font-family: "Poppins", sans-serif;
+}
+.title{
+    text-align:center;
+    font-family: "poppins", sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+}
+.the_end{
+    text-align: center;
+    font-weight: 600;
+}
+.thanks{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+
+
+    margin-left: 20px;
